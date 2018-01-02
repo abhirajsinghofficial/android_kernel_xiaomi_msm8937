@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 3.18.88 Kernel Configuration
+# Linux/arm64 3.18.90 Kernel Configuration
 #
 CONFIG_ARM64=y
 CONFIG_64BIT=y
@@ -4135,7 +4135,7 @@ CONFIG_F2FS_FS=y
 CONFIG_F2FS_STAT_FS=y
 CONFIG_F2FS_FS_XATTR=y
 CONFIG_F2FS_FS_POSIX_ACL=y
-# CONFIG_F2FS_FS_SECURITY is not set
+CONFIG_F2FS_FS_SECURITY=y
 # CONFIG_F2FS_CHECK_FS is not set
 CONFIG_F2FS_FS_ENCRYPTION=y
 # CONFIG_F2FS_FAULT_INJECTION is not set
